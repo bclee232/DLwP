@@ -6,7 +6,9 @@ Coding from Deep Learning with Python by Francois Chollet
 Featuring:
 
 Binary Classfication
-  (2_imdb.ipynb)
+  (2_imdb)
 
 Single Label Muticlass Classification
-  (1_mnist.ipynb, 3_reuters.ipynb)
+  (1_mnist, 3_reuters)
+  
+Scalar Regression (4_boston)
