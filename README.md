@@ -8,5 +8,5 @@ Featuring:
 Binary Classfication
   (2_imdb.ipynb)
 
-Single Label Muticlass Classifcation
+Single Label Muticlass Classification
   (1_mnist.ipynb, 3_reuters.ipynb)
