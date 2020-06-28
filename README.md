@@ -14,5 +14,5 @@ Single Label Muticlass Classification
 Scalar Regression 
   (4_boston)
 
-Convolution networks 
+Convolution Networks 
   (5_convnet)
