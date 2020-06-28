@@ -11,4 +11,8 @@ Binary Classfication
 Single Label Muticlass Classification
   (1_mnist, 3_reuters)
   
-Scalar Regression (4_boston)
+Scalar Regression 
+  (4_boston)
+
+Convolution networks 
+  (5_convnet)
