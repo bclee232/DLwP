@@ -16,3 +16,6 @@ Scalar Regression
 
 Convolution Networks
   (5_convnet, 6_cats_dogs, 7_VGG16)
+  
+Sequence Processing
+  (8_embed)
