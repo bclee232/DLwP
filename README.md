@@ -15,4 +15,4 @@ Scalar Regression
   (4_boston)
 
 Convolution Networks
-  (5_convnet, 6_cats_dogs)
+  (5_convnet, 6_cats_dogs, 7_VGG16)
