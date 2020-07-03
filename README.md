@@ -6,7 +6,7 @@ Coding from Deep Learning with Python by Francois Chollet
 Featuring:
 
 Binary Classfication
-  (2_imdb)
+  (2_imdb, 8_embed)
 
 Single Label Muticlass Classification
   (1_mnist, 3_reuters)
@@ -17,5 +17,5 @@ Scalar Regression
 Convolution Networks
   (5_convnet, 6_cats_dogs, 7_VGG16)
   
-Sequence Processing
-  (8_embed)
+Recurrent Neural Networks
+  (9_rnn)
