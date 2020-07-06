@@ -18,4 +18,4 @@ Convolution Networks
   (5_convnet, 6_cats_dogs, 7_VGG16)
   
 Recurrent Neural Networks
-  (9_rnn)
+  (9_rnn, 10_temp)
