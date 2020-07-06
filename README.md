@@ -15,7 +15,7 @@ Scalar Regression
   (4_boston)
 
 Convolution Networks
-  (5_convnet, 6_cats_dogs, 7_VGG16)
+  (5_convnet, 6_cats_dogs, 7_VGG16, 11_1Dconv)
   
 Recurrent Neural Networks
   (9_rnn, 10_temp)
